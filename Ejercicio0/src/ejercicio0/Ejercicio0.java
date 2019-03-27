@@ -29,13 +29,7 @@ public class Ejercicio0 {
         } while (!finalizar);
     }
 
-    private static String leerEntrada() {
-        
-    
-    
-    
-    
-    
+    private static String leerEntrada() {  
         return null;
     }
 
