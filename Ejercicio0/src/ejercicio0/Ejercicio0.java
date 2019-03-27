@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class Ejercicio0 {
 
     private static String leerEntrada() {
+        //jarl hectorrrrrrrrrrrrrr
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
