@@ -17,6 +17,7 @@ public class Ejercicio0 {
     }
 
     private static void logica() {
+        //8============D
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
