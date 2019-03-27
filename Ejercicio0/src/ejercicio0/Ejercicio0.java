@@ -26,7 +26,7 @@ public class Ejercicio0 {
         Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("HÉCTOR NO TE RALLES QUE VAMOS A GANAR!!!!!");
+        System.out.println("EL QUE SE ESTÁ RALLANDO ES ALBERTO!!!!!");
         boolean finalizar;
         do {
             String entrada = leerEntrada();
